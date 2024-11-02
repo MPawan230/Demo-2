@@ -13,4 +13,13 @@ h2{
     background-color: red;
     text-align: right;
     color: cyan;
+    padding: 50px;
+    margin: 50px;
+}
+
+body{
+    background-image: url(../IMG/maldives.jpg);     /* adding backgroun image */
+    background-size: cover;                         /* set adjust background to screen size */
+    background-repeat: no-repeat;                   /* Stop/prevent repating background image */
+    background-attachment: fixed;                   /* Stop/prevent background scrolling when scrooling content in the page */
 }
